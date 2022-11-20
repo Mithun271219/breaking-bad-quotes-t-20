@@ -1,0 +1,11 @@
+header, main{
+    position: relative;
+    text-align: center;
+}
+button, div{
+    position: relative;
+}
+.divi{
+    text-align: right;
+    font-style: italic;
+}
